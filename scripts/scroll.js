@@ -281,7 +281,7 @@ tl10.from('#p10_t1', {
 }).to('#p10_t1', {
     opacity: 1, scale: 1
 }).from('#seeds', {
-    x: '100vw'
+    x: '-100vw'
 }).to('#seedss', {
     x: '0vw', duration: 2
 }).from('#p10_t1', {
