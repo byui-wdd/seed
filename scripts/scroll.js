@@ -145,6 +145,8 @@ tl5.from('#pots', {
     opacity: 0, scale: 0
 }).to('#p5_t1', {
     opacity: 1, scale: 1
+}).to('#p5_t1', {
+    opacity: 0, scale: 0
 }).from('#p5_t2', {
     opacity: 0, scale: 0
 }).to('#p5_t2', {
