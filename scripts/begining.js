@@ -38,8 +38,8 @@ ded.from('.title', {
 });
 
 
-let background = document.getElementById('music');
-background.play();
+// let background = document.getElementById('music');
+// background.play();
 // background.preload;
 // console.log(background);
 // let icon = document.getElementById('icon');
